@@ -1,2 +1,2 @@
 # my-first-repo
-A sample repositoryfor learning GitHub basics
+This is a sample repository created for learning GitHub.
